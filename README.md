@@ -8,16 +8,16 @@ Most of my projects come from the same idea: I find something interesting, try t
 
 ### projects
 
-**[rchip8](https://github.com/dreykaza/rchip8)**
+**[rchip8](https://github.com/pubfn/rchip8)**
 CHIP-8 emulator written in Rust. A second take on my original emulator, this time with more focus on separating the CPU, hardware and application layers.
 
-**[Chip8](https://github.com/dreykaza/Chip8)**
+**[Chip8](https://github.com/pubfn/Chip8)**
 My first CHIP-8 emulator. Built to understand memory, registers, instruction execution, timers, input and display.
 
-**[AntColony](https://github.com/dreykaza/AntColony)**
+**[AntColony](https://github.com/pubfn/AntColony)**
 A small ant colony optimization simulation. I wanted to implement the algorithm myself and see how the behaviour changes as the environment changes.
 
-**[instagame](https://github.com/dreykaza/instagame)**
+**[instagame](https://github.com/pubfn/instagame)**
 A small 2D game with custom weapons, physics and SAT-based collision detection.
 
 ### currently
